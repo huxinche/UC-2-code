@@ -2,4 +2,4 @@
 
 Our UI code is under VehicleDetailNew.
 
-And I also up load what I wirte on your code under ShowAndSearchUI.
+And I also upload what I wirte on your code under ShowAndSearchUI.
